@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\PKG-6\bin\Release\netcoreapp3.1\PKG-6.exe
+C:\Users\1\source\repos\PKG-6\bin\Release\netcoreapp3.1\PKG-6.deps.json
+C:\Users\1\source\repos\PKG-6\bin\Release\netcoreapp3.1\PKG-6.runtimeconfig.json
+C:\Users\1\source\repos\PKG-6\bin\Release\netcoreapp3.1\PKG-6.runtimeconfig.dev.json
+C:\Users\1\source\repos\PKG-6\bin\Release\netcoreapp3.1\PKG-6.dll
+C:\Users\1\source\repos\PKG-6\bin\Release\netcoreapp3.1\PKG-6.pdb
+C:\Users\1\source\repos\PKG-6\obj\Release\netcoreapp3.1\PKG_6.Form1.resources
+C:\Users\1\source\repos\PKG-6\obj\Release\netcoreapp3.1\PKG-6.csproj.GenerateResource.cache
+C:\Users\1\source\repos\PKG-6\obj\Release\netcoreapp3.1\PKG-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\PKG-6\obj\Release\netcoreapp3.1\PKG-6.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\PKG-6\obj\Release\netcoreapp3.1\PKG-6.AssemblyInfo.cs
+C:\Users\1\source\repos\PKG-6\obj\Release\netcoreapp3.1\PKG-6.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\PKG-6\obj\Release\netcoreapp3.1\PKG-6.dll
+C:\Users\1\source\repos\PKG-6\obj\Release\netcoreapp3.1\PKG-6.pdb
+C:\Users\1\source\repos\PKG-6\obj\Release\netcoreapp3.1\PKG-6.genruntimeconfig.cache
